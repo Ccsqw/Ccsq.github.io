@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Ccsq.github.io</id>
+    <id>https://Ccsqw.github.io</id>
     <title>Gridea</title>
-    <updated>2024-06-21T02:08:37.062Z</updated>
+    <updated>2024-06-21T02:20:50.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Ccsq.github.io"/>
-    <link rel="self" href="https://Ccsq.github.io/atom.xml"/>
+    <link rel="alternate" href="https://Ccsqw.github.io"/>
+    <link rel="self" href="https://Ccsqw.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://Ccsq.github.io/images/avatar.png</logo>
-    <icon>https://Ccsq.github.io/favicon.ico</icon>
+    <logo>https://Ccsqw.github.io/images/avatar.png</logo>
+    <icon>https://Ccsqw.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[The long road back]]></title>
-        <id>https://Ccsq.github.io/post/the-long-road-back/</id>
-        <link href="https://Ccsq.github.io/post/the-long-road-back/">
+        <id>https://Ccsqw.github.io/post/the-long-road-back/</id>
+        <link href="https://Ccsqw.github.io/post/the-long-road-back/">
         </link>
         <updated>2024-06-20T15:40:24.000Z</updated>
         <content type="html"><![CDATA[<p>ne</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Avoid armadillos]]></title>
-        <id>https://Ccsq.github.io/post/avoid-armadillos/</id>
-        <link href="https://Ccsq.github.io/post/avoid-armadillos/">
+        <id>https://Ccsqw.github.io/post/avoid-armadillos/</id>
+        <link href="https://Ccsqw.github.io/post/avoid-armadillos/">
         </link>
         <updated>2024-06-18T11:14:13.000Z</updated>
         <content type="html"><![CDATA[<p>biblical  adj 与《圣经》有关的<br>
@@ -72,8 +72,8 @@ does a trick 把什么做了</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Explaining the wave function]]></title>
-        <id>https://Ccsq.github.io/post/explaining-the-wave-function/</id>
-        <link href="https://Ccsq.github.io/post/explaining-the-wave-function/">
+        <id>https://Ccsqw.github.io/post/explaining-the-wave-function/</id>
+        <link href="https://Ccsqw.github.io/post/explaining-the-wave-function/">
         </link>
         <updated>2024-06-18T09:03:31.000Z</updated>
         <summary type="html"><![CDATA[<p>be capable of 有能力做的</p>
@@ -103,8 +103,8 @@ variable n 变量</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Java实训]]></title>
-        <id>https://Ccsq.github.io/post/java-shi-xun/</id>
-        <link href="https://Ccsq.github.io/post/java-shi-xun/">
+        <id>https://Ccsqw.github.io/post/java-shi-xun/</id>
+        <link href="https://Ccsqw.github.io/post/java-shi-xun/">
         </link>
         <updated>2024-05-09T01:05:38.000Z</updated>
         <content type="html"><![CDATA[<p>2024-5-9</p>
@@ -112,8 +112,8 @@ variable n 变量</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Ccsq.github.io/post/hello-gridea/</id>
-        <link href="https://Ccsq.github.io/post/hello-gridea/">
+        <id>https://Ccsqw.github.io/post/hello-gridea/</id>
+        <link href="https://Ccsqw.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
